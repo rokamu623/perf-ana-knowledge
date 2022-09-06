@@ -1,4 +1,5 @@
 # perf-ana-knowledge
+EmbIVの性能評価グループの共有知識です。
 
 ## Pages
 
