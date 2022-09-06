@@ -5,7 +5,7 @@ EmbIVの性能評価グループの共有知識です。
 
 - [Autoware](./Autoware)
 - [CARET](./CARET)
-- [Environment](./Environment)
+- [Tools](./Tools)
 
 ## Index
 - Autoware
@@ -13,7 +13,7 @@ EmbIVの性能評価グループの共有知識です。
   - AutowareのXX
 - CARET
   - CARETのhogehoge
-- Environment
+- Tools
   - VSCodeの環境導入
   - Githubの環境導入
 
