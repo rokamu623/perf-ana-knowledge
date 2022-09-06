@@ -1,4 +1,4 @@
 # CARET
 
 ## CARETのhogehoge
-○○
+hogehoge
