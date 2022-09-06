@@ -1,5 +1,3 @@
-# Autoware
-
 ## Autowareの○○
 ○○
 
