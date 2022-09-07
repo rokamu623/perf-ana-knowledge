@@ -21,5 +21,5 @@ EmbIVの性能評価グループの共有知識です。
   - [Githubの環境導入](./Tools#Githubの環境導入)
 
 ## How to Use
-各々のディレクトリの`README.md`に、テンプレートに従ってTipsを書き込んでください。
+各々のディレクトリの`README.md`に、テンプレートに従ってTipsを書き込んでください。<br>
 『閲覧』をクリックすることでGithub Pagesで閲覧できます。
