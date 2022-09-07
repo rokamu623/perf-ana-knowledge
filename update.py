@@ -1,3 +1,5 @@
+"""作成途中なので、正しく挙動しない可能性があります。"""
+
 from os import listdir
 import os.path
 
